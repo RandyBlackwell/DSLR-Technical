@@ -2,3 +2,37 @@ body {
     font-family: 'Krub', arial, sans-serif;
     font-size: 16px;
 }
+
+#main-doc {
+    width: 75%;
+    float: right;
+}
+
+.section-header {
+    font-size: 1.5rem;
+}
+
+#navbar {
+    position: fixed;
+
+}
+
+#nav-header {
+    font-size: 1.7rem;
+    
+}
+.nav-link {
+    font-size: 1.7rem;
+    text-decoration: none;
+    padding-top: 15px;
+    align-items: center;
+    
+}
+
+
+
+
+@media only screen and (max-width: 600px) {
+    
+
+}
